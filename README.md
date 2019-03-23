@@ -6,6 +6,6 @@ single-page app for viewing the historical price data for any cryptocurrency
 
 ## Deployed on Heroku
 
-![](/image/2019-03-23-10-33-17.png)
+![](/image/2019-03-23-10-49-41.png)
 
 **Created with:** reactjs, chart.js, CoinDeskAPI
