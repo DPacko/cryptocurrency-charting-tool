@@ -108,6 +108,13 @@ class CryptoChart extends React.Component {
             <button onClick={this.grabMonth}>Check last 30 days</button>
           )}
         </div>
+        <div className='description'>
+          <p>
+            Below is a historical chart for Bitcoin Price Index (BPI). Find the
+            all prices for each day of this last month, or within the last 6
+            months
+          </p>
+        </div>
         <Line
           data={data}
           width={100}
