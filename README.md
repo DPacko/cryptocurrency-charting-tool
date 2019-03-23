@@ -9,4 +9,4 @@ https://bpi-chart.herokuapp.com/
 
 ![](/image/2019-03-23-10-49-41.png)
 
-**Created with:** reactjs, chart.js, CoinDeskAPI, Moment.js
+**Created with:** React, Chart.js, CoinDeskAPI, Moment.js
