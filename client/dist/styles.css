@@ -1,0 +1,37 @@
+.plugin {
+  font-size: 10px;
+  padding-left: 10px;
+}
+
+body {
+  background-color: #59ee6617;
+}
+
+button {
+  cursor: pointer;
+  box-shadow: 1px 3px 5px grey;
+  border-radius: 5%;
+  padding: 5px 10px;
+  font-size: 20px;
+  background-color: rgba(75, 192, 192, 0.67);
+  border: 1px solid rgba(75, 192, 192, 0.67);
+}
+
+button:hover {
+  background-color: rgb(75, 192, 192);
+  border: 1px solid rgb(75, 192, 192);
+}
+
+button:active {
+  transform: scale(0.95, 0.95);
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+button:focus {
+  outline: none;
+}
