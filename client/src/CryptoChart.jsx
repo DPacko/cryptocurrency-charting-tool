@@ -7,7 +7,7 @@ const data = {
   labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
   datasets: [
     {
-      label: 'Bitcoin prices',
+      label: 'BPI',
       fontSize: 25,
       fill: false,
       lineTension: 0.1,
@@ -110,9 +110,8 @@ class CryptoChart extends React.Component {
         </div>
         <div className='description'>
           <p>
-            Below is a historical chart for Bitcoin Price Index (BPI). Find the
-            all prices for each day of this last month, or within the last 6
-            months
+            Historical chart for Bitcoin Price Index (BPI). Find all prices for
+            each day of this last month, or within the last 6 months
           </p>
         </div>
         <Line
