@@ -1,6 +1,6 @@
 # cryptocurrency-charting-tool
 
-single-page app for viewing the historical price data for any cryptocurrency
+full stack app for viewing the historical price data for Bitcoin
 
 #### created in a 2-day sprint
 
